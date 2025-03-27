@@ -1,7 +1,7 @@
 package com.example;
  
  
-public class App 
+public class MyFirstJava.java
 {
     public static void main( String[] args )
     {
